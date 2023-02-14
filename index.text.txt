@@ -1,0 +1,38 @@
+1)What is Emmet?
+Emmet is a web-developer toolkit that can greatly improve your HTML and CSS workflow
+
+ 2) what is the Difference between a Library and Framework?
+
+ Library: A library is a collection of prewitten code that can be used to simplyfy tasks.
+ the term  library simply refere to a collection of code that is reused repeatedly
+  Framwwork:in short, we can say that a software framework is an abstraction in which the framework provides us with a common functionality that we can change or modify by writing additional code. This is how application-specific software is provided.
+
+  3)What is CDN? Why do we use it?
+Content Delivery Networks (CDN) is also called as Content distribution Networks is a group of 
+ geographically distributed and interconnectd servers.
+ web application uses CDN largely because they offers four important benifits.
+ 1 better performance
+ 2 increased realibility 
+ 3 cost saving
+ 4 cyber attack
+ 4)Why is React known as React?
+ React is called React because it was designed to be a declarative, efficient, and flexible JavaScript library for building user interfaces
+ 
+● What is crossorigin in script tag?
+The purpose of crossorigin attribute is used to share the resources
+ from one domain to another domain. Basically, it is used to handle the CORS request. 
+ It is used to handle the CORS request that checks whether it is safe to allow for 
+ sharing the resources from other domains. The resources may include Audio, Video, Images, Link or external script that specifies whether to support a cross-origin request or not
+CORS: It stands for cross-origin resource sharing. It is a mechanism by which one webpage requests to another domain for fetching out the resource like audio, video, script, etc. from the third party server without leaking their credentials information. 
+● What is diference between React and ReactDOM
+React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser.
+Development mode includes useful warnings and gives you access to tools that make development and debugging easier. Production mode minifies your code and better represents the performance your app will have on end users' devices.
+
+● What is difference between react.development.js and react.production.js files via CDN?
+
+● What is async and defer? - see my Youtube video ;)
+Async allows your script to run as soon as it's loaded, without blocking other elements on the page. 
+Defer means your script will only execute after the page has finished loading.
+
+
+
